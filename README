@@ -1,0 +1,18 @@
+Welcome to PowerShell lite, This is a version of Crosh from Chromebook to windows. this program is entirely safe but be wise on what commands you use cause some may affect your computer but they wont be able to destroy your computer.
+
+You may need to install some stuff in windows terminal
+
+How to install stuff on windows terminal?
+
+To install stuff on windows terminal you need to type in: pip install [Insert library]
+
+What about my python version is it correct?
+
+to check your python version go to terminal and type: python --version
+
+You wont need the following libraries for this version:
+psutil
+requests
+
+The following libraries you will need for this version:
+os, shutil, platform, and subprocess. 
